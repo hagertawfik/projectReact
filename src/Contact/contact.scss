@@ -1,0 +1,38 @@
+.formInput{
+    border-bottom: 1px solid #e9ecef;
+    padding-bottom: 1rem;
+}
+.form-control:focus{
+    box-shadow: none;
+    background-color: none;
+}
+.formInput input {
+    font-size: 1.5rem;
+    padding-right: 0px;
+    padding-left: 0px;
+}
+.formInput textarea {
+    font-size: 1.5rem;
+    padding-right: 0px;
+    padding-left: 0px;
+   
+}
+.btn-submit{
+    margin: 1.5rem 0rem 1rem 0rem;
+}
+.btn1{
+    padding: 1rem 1.5rem;
+    font-size: 1.2rem;
+    color: white;
+    background-color: #1abc9c;
+    border-color: #1abc9c;
+}
+.btn1:hover{
+    color: white;
+    background-color: #159a80;
+    border-color: #148f77;
+}
+
+.formInput p{
+    display: none;
+}

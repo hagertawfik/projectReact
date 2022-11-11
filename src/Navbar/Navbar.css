@@ -1,0 +1,49 @@
+.icon-menu {
+  width: 1rem;
+  height: 1rem;
+  color: white;
+  font-weight: 700;
+}
+
+.navbar-toggler {
+  padding: 0.7rem;
+  color: white;
+  background-color: #1abc9c;
+}
+
+.navbar-toggler:hover {
+  background-color: #148f77;
+}
+
+.span-menu {
+  font-size: 0.9rem;
+  font-weight: 700;
+}
+
+.navbar {
+  background-color: #2c3e50;
+  text-transform: uppercase;
+  padding: 1.6rem;
+  font-family: "Montserrat", sans-serif;
+  z-index: 999999;
+}
+
+.navbar .container {
+  max-width: 1114px;
+}
+
+.navbar-brand {
+  font-size: 1.8em;
+  font-weight: 700;
+}
+
+.navbar .nav-link {
+  color: white;
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-left: 2rem;
+}
+
+.navbar .nav-link:hover {
+  color: #1abc9c;
+}/*# sourceMappingURL=Navbar.css.map */
